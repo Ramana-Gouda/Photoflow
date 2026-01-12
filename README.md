@@ -1,6 +1,6 @@
 **Photo Workflow Automation for HDR and Panorama Photography (v47.1)**
 
-This program automates the management and processing of large quantities of RAW image files. It is designed to perform the preparatory steps for panorama construction: sorting sequences, generating intermediate HDR files, and organizing the folder structure.
+This script automates the management and processing of large quantities of RAW image files. It is designed to perform the preparatory steps for panorama construction: sorting sequences, generating intermediate HDR files, and organizing the folder structure.
 
 **Functionality**
 
